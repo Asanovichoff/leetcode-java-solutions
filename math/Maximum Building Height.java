@@ -8,8 +8,8 @@
  * 3. Return the maximum building height.
  */
 /**
- * Time Complexity: O(n log n)
- * Space Complexity: O(n)
+ * Time Complexity: O(m log m)
+ * Space Complexity: O(m)
  * 
  * Explanation:
  * 1. We use a math approach to calculate the maximum building height.
