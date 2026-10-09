@@ -1,5 +1,5 @@
 /**
- *  * Problem: Maximum Binary Tree
+ *  * Problem: Partition Array for Maximum Sum
  * * Platform: LeetCode
  * * Approach :
  * 1. We can solve this problem using a recursive depth-first search (DFS) approach.
