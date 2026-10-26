@@ -1,3 +1,4 @@
+
 class Solution {
     public int minInsertions(String s) {
         int res = 0;
@@ -21,7 +22,7 @@ class Solution {
             }
             i++;
         }
-        res+= count * 2;a
+        res+= count * 2;
         return res;
     }
 }
